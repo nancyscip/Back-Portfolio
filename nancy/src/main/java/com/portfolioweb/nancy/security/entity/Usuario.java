@@ -1,5 +1,7 @@
 package com.portfolioweb.nancy.security.entity;
 
+
+
 import javax.validation.constraints.NotNull;
 
 import javax.persistence.*;
