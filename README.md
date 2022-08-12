@@ -31,3 +31,5 @@
 ![swagger3](https://user-images.githubusercontent.com/100371567/184455698-695b8618-42db-4a34-be21-d361b8a8e403.png)
 ![swagger4](https://user-images.githubusercontent.com/100371567/184455701-cddec9f5-b00a-42bb-ba66-da65efbd1e8c.png)
 ![swagger5](https://user-images.githubusercontent.com/100371567/184455712-c475ce10-a437-4b3b-88bb-e49e14d86f34.png)
+
+### Todas las peticiones de Swagger fueron satisfactorias con código 200
