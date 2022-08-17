@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.transaction.Transactional;
 
 @RestController
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://portfolio-nancys.web.app")
 @Transactional
 
 @RequestMapping("/persona")

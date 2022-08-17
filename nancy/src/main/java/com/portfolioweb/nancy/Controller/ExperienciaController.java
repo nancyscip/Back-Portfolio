@@ -12,7 +12,7 @@ import javax.transaction.Transactional;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://portfolio-nancys.web.app")
 @Transactional
 @RequestMapping("/experiencia")
 
