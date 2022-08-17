@@ -24,7 +24,7 @@
  
  ## Posee sistema de login con JWT
  
- ## Documentación Swagger disponible en formato .png extraída de (http://localhost:8080/swagger-ui.html)
+ ### Documentación Swagger disponible en formato .png extraída de (http://localhost:8080/swagger-ui.html)
  
 ![swagger1](https://user-images.githubusercontent.com/100371567/184455682-0e4364cc-0ecf-4713-8441-ea88a3e33aa2.png)
 ![swagger2](https://user-images.githubusercontent.com/100371567/184455692-391983bf-3f6c-4986-8679-ed1f07522e57.png)
@@ -32,7 +32,13 @@
 ![swagger4](https://user-images.githubusercontent.com/100371567/184455701-cddec9f5-b00a-42bb-ba66-da65efbd1e8c.png)
 ![swagger5](https://user-images.githubusercontent.com/100371567/184455712-c475ce10-a437-4b3b-88bb-e49e14d86f34.png)
 
-### Todas las peticiones de Swagger fueron satisfactorias con código 200
+#### Todas las peticiones de Swagger fueron satisfactorias con código 200
+
+
+
+## Para acceder a la documentación Swagger pulsar este link: (https://back-portfolionan.herokuapp.com/swagger-ui.html)
+
+
 
 #### Historial de versiones/tags:
 
