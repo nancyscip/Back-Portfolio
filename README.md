@@ -24,7 +24,7 @@
  
  ## Posee sistema de login con JWT
  
- ## Documentación Swagger disponible en formato .png
+ ## Documentación Swagger disponible en formato .png extraída de (http://localhost:8080/swagger-ui.html)
  
 ![swagger1](https://user-images.githubusercontent.com/100371567/184455682-0e4364cc-0ecf-4713-8441-ea88a3e33aa2.png)
 ![swagger2](https://user-images.githubusercontent.com/100371567/184455692-391983bf-3f6c-4986-8679-ed1f07522e57.png)
@@ -33,3 +33,13 @@
 ![swagger5](https://user-images.githubusercontent.com/100371567/184455712-c475ce10-a437-4b3b-88bb-e49e14d86f34.png)
 
 ### Todas las peticiones de Swagger fueron satisfactorias con código 200
+
+#### Historial de versiones/tags:
+
+###### v1: Commit inicial del BackEnd extraído del directorio del FrontEnd.
+###### v2: Commit directorio completo.
+###### v3: Listo para deployar.
+###### v3.1: Eliminación del DER en distintos formatos en la rama de pruebas.
+###### v3.1.1: Modificación del readme.
+###### v3.1.2: Modificación del readme.
+###### v3.1.3: Modificación del readme.
